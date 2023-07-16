@@ -5,6 +5,9 @@ A project to tackle unemployment. Built under 24 hours at Soft-Codehack 1.0 '23.
 
 This project is developed under the Smart Automation and Open Invvoation track in Soft-CodeHack 1.0
 
+The main unique selling point (USP) of this project is Job fit score calculation (JFS) score for automatic resume shortlisting which help the recruiters and save the time and efforts another USP is online video and audio screening protocoring exam for shortlisted candidates on the same platform i.e WorkConnect.
+This project has many unique features ,listed below.
+
 Workconnect is a Web based application or online platform that aims to address the issue of unemployment by providing resources and tools for job seekers to find employment opportunities, as well as connecting them with potential employers. It also provides additional resources such as resume building, and personalized job alerts. The goal of the project is to make it easier for job seekers to find employment and to help address the issue of unemployment in the community.
 
 
