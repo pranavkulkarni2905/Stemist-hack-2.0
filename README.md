@@ -1,7 +1,7 @@
 # Soft-Codehack-1.0
 
 
-A project to tackle unemployment. Built under 24 hours at Soft-Codehack 1.0 '23. By Team Logic Architect.
+A project to tackle unemployment. Built under 60 hours at Soft-Codehack 1.0 '23. By Team Logic Architect.
 
 This project is developed under the Smart Automation and Open Invvoation track in Soft-CodeHack 1.0
 
